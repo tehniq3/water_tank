@@ -1,4 +1,5 @@
-# automatic sysye for water tank: https://nicuflorica.blogspot.com/2020/11/sistem-de-automatizare-pentru-umplere.html
+# automatic system for water tank: 
+https://nicuflorica.blogspot.com/2020/11/sistem-de-automatizare-pentru-umplere.html
 
 
 ![schematic](https://1.bp.blogspot.com/-FoVEzbScnz4/X6l5MctaDII/AAAAAAAAddU/KqQJwxDFHuMmmwuV-LnFV5x9OMDF9qTWQCLcBGAsYHQ/s320/automatizare_umplere_rezervor.png)
